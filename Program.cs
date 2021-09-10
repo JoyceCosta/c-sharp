@@ -7,7 +7,7 @@ namespace Revisao
     static void Main(string[] args)
     {
 
-      Aluno[] alunos = new Aluno[5];
+      Aluno[] alunos = new Aluno[6];
       var indiceAluno = 0;
       string opcaoUsuario = ObterOpcaoUsuario();
 
