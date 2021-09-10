@@ -1,0 +1,16 @@
+/home/joyce/Projects/c#/DigitalInnovation/dio2/bin/Debug/net5.0/dio2
+/home/joyce/Projects/c#/DigitalInnovation/dio2/bin/Debug/net5.0/dio2.deps.json
+/home/joyce/Projects/c#/DigitalInnovation/dio2/bin/Debug/net5.0/dio2.runtimeconfig.json
+/home/joyce/Projects/c#/DigitalInnovation/dio2/bin/Debug/net5.0/dio2.runtimeconfig.dev.json
+/home/joyce/Projects/c#/DigitalInnovation/dio2/bin/Debug/net5.0/dio2.dll
+/home/joyce/Projects/c#/DigitalInnovation/dio2/bin/Debug/net5.0/ref/dio2.dll
+/home/joyce/Projects/c#/DigitalInnovation/dio2/bin/Debug/net5.0/dio2.pdb
+/home/joyce/Projects/c#/DigitalInnovation/dio2/obj/Debug/net5.0/dio2.csproj.AssemblyReference.cache
+/home/joyce/Projects/c#/DigitalInnovation/dio2/obj/Debug/net5.0/dio2.GeneratedMSBuildEditorConfig.editorconfig
+/home/joyce/Projects/c#/DigitalInnovation/dio2/obj/Debug/net5.0/dio2.AssemblyInfoInputs.cache
+/home/joyce/Projects/c#/DigitalInnovation/dio2/obj/Debug/net5.0/dio2.AssemblyInfo.cs
+/home/joyce/Projects/c#/DigitalInnovation/dio2/obj/Debug/net5.0/dio2.csproj.CoreCompileInputs.cache
+/home/joyce/Projects/c#/DigitalInnovation/dio2/obj/Debug/net5.0/dio2.dll
+/home/joyce/Projects/c#/DigitalInnovation/dio2/obj/Debug/net5.0/ref/dio2.dll
+/home/joyce/Projects/c#/DigitalInnovation/dio2/obj/Debug/net5.0/dio2.pdb
+/home/joyce/Projects/c#/DigitalInnovation/dio2/obj/Debug/net5.0/dio2.genruntimeconfig.cache
